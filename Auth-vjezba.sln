@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth-vjezba", "Auth-vjezba\Auth-vjezba.csproj", "{ACF2A2C4-4E43-4352-9906-20745CD840EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF2A2C4-4E43-4352-9906-20745CD840EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF2A2C4-4E43-4352-9906-20745CD840EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF2A2C4-4E43-4352-9906-20745CD840EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF2A2C4-4E43-4352-9906-20745CD840EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA41536-B8A8-4A00-B8F6-E0C71DFE1496}
+	EndGlobalSection
+EndGlobal
